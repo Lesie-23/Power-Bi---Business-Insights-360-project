@@ -61,7 +61,8 @@ From this hub, users can instantly access all key report sections, including Fin
 ###  💰 Finance View:
 Gain visibility into Net Sales, Gross Margin %, and Net Profit %, along with a detailed P&L breakdown across top and bottom-performing products and regions.
 
-![Finance View](https://github.com/user-attachments/assets/05fee15c-9586-4bb3-88c4-9bafe878cf14)
+
+![Finance View](https://github.com/user-attachments/assets/dd802aef-acd3-4222-941c-e3d53f68e886)
 
 
  ### 📈 Sales View:
