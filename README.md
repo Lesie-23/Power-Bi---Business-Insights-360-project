@@ -20,15 +20,21 @@ https://app.powerbi.com/view?r=eyJrIjoiNThkNGQ4YTQtODlkNi00MzU5LTk3YjUtNmIyNmQwN
 ### 🔧 Steps Implemented:-
 
 ✅	Data Acquisition & Modeling:
+
 1.	Data Integration: Consolidated data from MySQL and Excel into Power BI.
+
 2.	Data Model: Established a Snowflake schema to define relationships between tables.
 
 ✅	Data Transformation & Optimization:
+
 3.	Data Shaping: Employed Power Query and DAX measures for data transformation and calculations.
+
 4.	Performance Tuning: Optimized visual performance using DAX Studio.
 
 ✅	Dashboard Development & Deployment:
+
 5.	Interactive Design: Developed user-friendly dashboards in Power BI Desktop, incorporating bookmarks for seamless navigation.
+
 6.	Report Publication & Sharing: Deployed and shared the interactive report via Power BI Service.
        
 
